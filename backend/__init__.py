@@ -1,1 +1,0 @@
-"""Volkswagen RAG backend package."""
